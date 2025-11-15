@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     ANGGOTA ||--o{ PEMINJAMAN : "melakukan"
     PETUGAS ||--o{ PEMINJAMAN : "melayani"
